@@ -1,1 +1,1 @@
-FROM gcr.io/google-samples/istio/helloserver:v0.0.1
+FROM gcr.io/google-samples/istio/helloserver@sha256:17884b4d9e5c2d36d4e798fb280ade3b455a74981b06dc3245417c42cfd2ff56
